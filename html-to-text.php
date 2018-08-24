@@ -1,5 +1,5 @@
 <?php
-$url = 'https://droom.in';
+$url = 'https://www.lipsum.com';
 
 get_text($url);
 
